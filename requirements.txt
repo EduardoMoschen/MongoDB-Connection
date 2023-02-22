@@ -1,0 +1,11 @@
+autopep8==2.0.1
+dnspython==2.3.0
+flake8==6.0.0
+mccabe==0.7.0
+mypy==1.0.0
+mypy-extensions==1.0.0
+pycodestyle==2.10.0
+pyflakes==3.0.1
+pymongo==4.3.3
+python-dotenv==0.21.1
+typing_extensions==4.5.0
