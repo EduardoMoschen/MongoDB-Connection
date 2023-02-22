@@ -80,7 +80,7 @@ for datas in new_user:
     )
 
 # Atualizando o usuário com o id.
-# us.update_one_user("63efc32a681248b960fe897d")
+# us.update_one_user("INSIRA O ID")  # Retire o # para executar o comando.
 
 # Listando todos os usuários do banco de dados.
 # us.list_all_users()
